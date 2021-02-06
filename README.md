@@ -1,9 +1,11 @@
-Segue o programa console # DIO.Series
+Segue o programa em console **DIO.Series**
 
-1-Baixe e rode os arquivos com o comando
-2-$ dotnet run na pasta root do programa
+1-Baixe os arquivos com o comando
+2-rode no CLI o commando "$ dotnet run" na pasta root do programa
+3-Cadastre suas séries. 
 
-Demonstração:
+
+**Demonstração:**
 
 ____________________________________________________________
 
@@ -17,7 +19,7 @@ Informe a opção desejada:
 C- Limpar Tela
 X- Sair
 
-2
+// Opção escolhida 2
 _____________________________________________________________
 Inserir nova série
 1-Acao
@@ -34,10 +36,13 @@ Inserir nova série
 12-Suspense
 13-Terror
 14-Animação
-Digite o gênero entre as opções acima: 14
-Digite o Título da Série: Dragon Ball
-Digite o Ano de Início da Série: 1985
-Digite a Descrição da Série: Goku e amigos caçando as esferas do dragão.
+
+// Saída do Programa 
+
+// Digite o gênero entre as opções acima: 14
+// Digite o Título da Série: Dragon Ball
+// Digite o Ano de Início da Série: 1985
+// Digite a Descrição da Série: Goku e amigos caçando as esferas do dragão.
 
 ___________________________________________________________________________________
 DIO Séries a seu dispor! Versão ErosMLima
@@ -50,7 +55,7 @@ Informe a opção desejada:
 C- Limpar Tela
 X- Sair
 
-5
+// Opção escolhida 5
 ____________________________________________________________________________________
 Digite o id da série: 0
 Gênero: Animação

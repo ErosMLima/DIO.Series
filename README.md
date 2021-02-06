@@ -5,7 +5,7 @@ Segue o programa em console **DIO.Series**
 3-Cadastre suas séries. 
 
 
-**Demonstração:**
+<br>**Demonstração:**<br>
 
 ____________________________________________________________
 
@@ -19,7 +19,7 @@ Informe a opção desejada:
 C- Limpar Tela
 X- Sair
 
-// Opção escolhida 2
+// Opção escolhida 2 <br>
 _____________________________________________________________
 Inserir nova série
 1-Acao
@@ -37,12 +37,12 @@ Inserir nova série
 13-Terror
 14-Animação
 
-// Saída do Programa 
+<br> // Saída do Programa 
 
 // Digite o gênero entre as opções acima: 14
 // Digite o Título da Série: Dragon Ball
 // Digite o Ano de Início da Série: 1985
-// Digite a Descrição da Série: Goku e amigos caçando as esferas do dragão.
+// Digite a Descrição da Série: Goku e amigos caçando as esferas do dragão. <br>
 
 ___________________________________________________________________________________
 DIO Séries a seu dispor! Versão ErosMLima
@@ -55,7 +55,7 @@ Informe a opção desejada:
 C- Limpar Tela
 X- Sair
 
-// Opção escolhida 5
+<br>// Opção escolhida 5 <br>
 ____________________________________________________________________________________
 Digite o id da série: 0
 Gênero: Animação
